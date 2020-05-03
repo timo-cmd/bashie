@@ -34,8 +34,7 @@ compile -d <PathToYourFile.asm>
 In serial.asm:
 
 ```asm
-An implementation of SLIP (Serial Link IP), RFC 1055 in assembly language
-
+; An implementation of SLIP (Serial Link IP), RFC 1055 in assembly language
 ; slip.asm
 ;
 ; This is an 8086+ implementation of SLIP (RFC 1055)
