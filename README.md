@@ -1,5 +1,5 @@
 # bashie
-A crazy new project in writing a high-performance scripting language entirely in bash. :P
+A crazy, experimental new project in writing a high-performance scripting language entirely in bash. :P
 
 ### Getting started:
 
